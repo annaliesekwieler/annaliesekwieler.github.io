@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[My resume](https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.docx) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
