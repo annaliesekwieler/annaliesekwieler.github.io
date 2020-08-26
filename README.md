@@ -1,5 +1,7 @@
 ## About Me
 
+![image](https://user-images.githubusercontent.com/70236276/91318081-d8609c00-e788-11ea-8316-acc7c734cbfe.png)
+
 I am a third-year PhD student in the Perkins Lab at the University of Notre Dame. I am interested in statistics and modeling applied to infectious diseases.
 
 ### Interests
