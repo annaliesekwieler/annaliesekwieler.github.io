@@ -28,8 +28,8 @@ and ![Image](src)
 ```
 
 
-<h1>View My Resume</h1>
-    <p>View my <a href="https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.pdf">resume</a>.</p>
+View My Resume
+View my <a href="https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.pdf">resume</a>.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
