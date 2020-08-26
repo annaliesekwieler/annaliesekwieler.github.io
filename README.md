@@ -1,4 +1,4 @@
-Resume CV About Me Projects Blog
+Resume              CV             About Me            Projects Blog
 
 
 ## About Me
