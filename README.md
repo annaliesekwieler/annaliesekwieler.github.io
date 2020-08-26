@@ -2,30 +2,20 @@
 
 I am a third-year PhD student in the Perkins Lab at the University of Notre Dame. I am interested in statistics and modeling applied to infectious diseases.
 
-### Markdown
+### Interests
+Professionally, my interest include
+- Probability and Statistics
+- Machine Learning Methods
+- Statistical Modeling of Infectious Disease Dynamics, Clinical Trials, Time Series
+- Statistical programming: R, Python, SQL, Scala
+- Simulation of Clinical Trials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Resume](https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/resume.html) 
-and ![Image](src)
-
-
-```
+Recreationally, my interests include
+- Learning Languages: Currently learning French, Spanish, German, Russian, and Italian
+- Figure Skating
+- Cooking
+- Traveling
+- Yoga
 
 
 View My Resume
