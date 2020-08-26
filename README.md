@@ -21,9 +21,15 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Resume](https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.pdf) and ![Image](src)
+[Resume](https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/resume.html) 
+and ![Image](src)
+
+
 ```
 
+
+<h1>View My Resume</h1>
+    <p>View my <a href="https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.pdf">resume</a>.</p>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
