@@ -10,6 +10,9 @@ Professionally, my interest include
 - Statistical programming: R, Python, SQL, Scala
 - Simulation of Clinical Trials
 
+View my <a href="https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.pdf">resume</a>.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 Recreationally, my interests include
 - Learning Languages: Currently learning French, Spanish, German, Russian, and Italian
 - Figure Skating
@@ -17,10 +20,6 @@ Recreationally, my interests include
 - Traveling
 - Yoga
 
-
-View My Resume
-View my <a href="https://github.com/annaliesekwieler/annaliesekwieler.github.io/blob/master/Resume.pdf">resume</a>.
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
