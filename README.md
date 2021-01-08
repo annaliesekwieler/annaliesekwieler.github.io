@@ -1,4 +1,4 @@
-About Me                Skills and Interests                       My Research                                Resume                              Projects
+<a href="aboutme.md">About Me</a>               Skills and Interests                       My Research                                Resume                              Projects
 
 
 ## About Me
