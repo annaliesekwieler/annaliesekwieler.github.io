@@ -1,4 +1,4 @@
-<a href="aboutme.md">About Me</a>               Skills and Interests                       My Research                                Resume                              Projects
+About Me              Skills and Interests                       My Research                                Resume                              Projects
 
 
 ## About Me
@@ -17,7 +17,7 @@ You can view my <a href="https://github.com/annaliesekwieler/annaliesekwieler.gi
 
 I have many hobbies, including language learning (English is my native language, and I have studied French, Spanish, German, Russian, Italian and Norwegian). I also love experiencing cultures through travel, cooking, and international film.
 
-This is a <a href="resume.html">test</a>
+This is a <a href="Resume.html">test</a>
 
 
 
