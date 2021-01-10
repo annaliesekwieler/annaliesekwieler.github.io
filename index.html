@@ -1,13 +1,38 @@
-<!DOCTYPE html>
 <html>
-<body>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
 
-<h1>Hi, I'm Annaliese.</h1>
-<p>I am a third-year PhD candidate at the University of Notre Dame, in a dual degree program in Biological Sciences and Applied and Computational Mathematics and Statistics.</p>
-<p> My dissertation research is focused on evaluating clinical trial evidence of a novel intervention against malaria, projecting its impact on a large scale, and developing an optimal allocation approach to maximize effectiveness.</p>
-  
- <h2>My Resume</h2>
-  <p>You can view my resume <a href="Resume.pdf">here</a> </p>
-
-</body>
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+    <div class="row">
+        <div class="column" style="background-color:#FFB695;">
+            <h2>Column 1</h2>
+            <p>Data..</p>
+        </div>
+        <div class="column" style="background-color:#96D1CD;">
+          
+          <h1>Hi, I'm Annaliese.</h1>
+              <p>I am a third-year PhD candidate at the University of Notre Dame, in a dual degree program in Biological Sciences and Applied and Computational Mathematics and Statistics.</p>
+               <p> My dissertation research is focused on evaluating clinical trial evidence of a novel intervention against malaria, projecting its impact on a large scale, and developing an optimal allocation approach to maximize effectiveness.</p>
+        
+            <h2>My Resume</h2>
+             <p>You can view my resume <a href="Resume.pdf">here</a> </p>
+          
+        </div>
+    </div>
+ </body>
 </html>
