@@ -13,6 +13,6 @@ I am a PhD candidate in Biological Sciences at the University of Notre Dame, and
 
 I began statistical programming while doing an REU at the University of Georgia in 2016, and I haven't looked back. I am approaching an expert level in R, and I am quickly gaining skills in Python and SQL.
 
-You can view my <a href="Resume.pdf" class="image fit">resume</a> for a brief summary of my skills and experience or my CV for more in-depth information on my skills and my academic accomplishments.
+You can view my <a href="Wieler_Annaliese_Resume.docx" class="image fit">resume</a> for a brief summary of my skills and experience or my CV for more in-depth information on my skills and my academic accomplishments.
 
 I have many hobbies, including language learning (English is my native language, and I have studied French, Spanish, German, Russian, Italian and Norwegian). I also love experiencing cultures through travel, cooking, and international film.
