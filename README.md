@@ -5,13 +5,13 @@
 
 ![image](https://user-images.githubusercontent.com/70236276/91318081-d8609c00-e788-11ea-8316-acc7c734cbfe.png)
 
-Hi, I'm Annaliese! I am a third-year PhD candidate in the Perkins Lab at the University of Notre Dame with an expected graduation in May 2023. I am interested in statistics and modeling applied to infectious diseases, clinical trials, and data-driven research.
+Hi, I'm Annaliese! I am a PhD candidate in the Perkins Lab at the University of Notre Dame with an expected graduation in May 2023. I am interested in statistics and modeling applied to infectious diseases, clinical trials, and data-driven decision making.
 
 ### Skills and Interests
 
-I am a PhD candidate in Biological Sciences at the University of Notre Dame, and I am also doing a master's degree in Applied and Computational Mathematics and Statistics. I have a dual major bachelor's degree in Mathematics and Biology from Tabor College, a small liberal arts college in Kansas. 
+I am a PhD candidate in Biological Sciences at the University of Notre Dame, and I am also doing a master's degree in Applied and Computational Mathematics and Statistics. I have a dual major bachelor's degree in Mathematics and Biology from a small liberal arts college in Kansas. 
 
-I began statistical programming while doing an REU at the University of Georgia in 2016, and I haven't looked back. I am approaching an expert level in R, and I am quickly gaining skills in Python and SQL.
+I began statistical programming while doing an REU at the University of Georgia in 2016, and I haven't looked back. I have expertise in statistical programming using R and also have data analysis skills using Python and SQL. I use techniques from survival analysis, generalized linear models, and time series analysis in my research, and I enjoy learning about and implementing new modeling techniques and algorithms.
 
 You can view my <a href="Wieler_Annaliese_Resume.pdf" class="image fit">resume</a> for a brief summary of my skills and experience or my CV for more in-depth information on my skills and my academic accomplishments.
 
