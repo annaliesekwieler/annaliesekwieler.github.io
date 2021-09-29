@@ -15,6 +15,6 @@ I began statistical programming while doing an REU at the University of Georgia 
 
 You can view my <a href="Wieler_Annaliese_Resume.pdf" class="image fit">resume</a> for a brief summary of my skills and experience.
 
-You can find my latest publication on COVID-19 and school re-openings <a href=https://www.sciencedirect.com/science/article/pii/S1755436521000396 class="image fit">here</a>.
+You can find my latest publication on COVID-19 and school re-openings <a href="https://www.sciencedirect.com/science/article/pii/S1755436521000396" class="image fit">here</a>.
 
 I have many hobbies, including language learning (English is my native language, and I have studied French, Spanish, German, Russian, Italian and Norwegian). I also love experiencing cultures through travel, cooking, and international film.
