@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/70236276/91318081-d8609c00-e788-11ea-8316-acc7c734cbfe.png)
 
-Hi, I'm Annaliese! I am a PhD candidate in the Perkins Lab at the University of Notre Dame with an expected graduation in May 2023. I am interested in statistics and modeling applied to infectious diseases, clinical trials, and data-driven decision making.
+Hi, I'm Annaliese! I am a PhD candidate in the Perkins Lab at the University of Notre Dame with an expected graduation in May 2023. I am interested in statistics and modeling applied to decision-making, infectious diseases, and clinical trials.
 
 ### Skills and Interests
 
